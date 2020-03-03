@@ -13,6 +13,11 @@ const danishWords = ['bil', 'plante', 'kaffe', 'bog', 'ø', 'planetarium'];
 notThisFunctionName(danishWords); // returns 'ø'
 ```
 
+
+## Simple eventlistener
+When clicking a button, change the text on the button to say "Button clicked"
+
+
 ## Favorite dishes
 Create an array of strings with your favorite dishes.
 
@@ -61,9 +66,6 @@ Create a function that has two parameters: `imageUrl` and `elementToAppendImageT
 notThisFunctionName('https://picsum.photos/536/354', document.querySelector('body'));
 
 ```
-
-## Simple eventlistener
-When clicking a button, change the text on the button to say "Button clicked"
 
 ## Light mode dark mode
 Clicking a button should toggle the background color of the body and the text color in the page.
