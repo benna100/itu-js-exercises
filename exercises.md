@@ -14,7 +14,7 @@ notThisFunctionName(danishWords); // returns 'ø'
 ```
 
 
-## Simple eventlistener
+## Click eventlistener
 When clicking a button, change the text on the button to say "Button clicked"
 
 
